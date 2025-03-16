@@ -185,10 +185,10 @@ The tools interact with Ollama's model storage structure:
 
 ### Debugging
 
-Run the commands with the `--verbose` flag for more detailed output:
+Run the commands with the `--verbose` or `-v` flag for more detailed output:
 
 ```bash
-python ollama_cli.py list --verbose
+python ollama_cli.py -v list
 ```
 
 ## License
