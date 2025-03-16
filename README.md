@@ -20,8 +20,8 @@ A set of tools for managing Ollama language models with both GUI and CLI interfa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-tool.git
-   cd ollama-tool
+   git clone https://github.com/404FoundingFather/ollama-model-manager.git
+   cd ollama-model-manager
    ```
 
 2. Install required dependencies:
