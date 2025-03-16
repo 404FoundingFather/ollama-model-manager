@@ -110,7 +110,8 @@ python ollama_cli.py delete mistral 7b
 Options:
 - `--force, -f`: Skip confirmation prompt
 
-## Graphical User Interface
+
+## Graphical User Interface (preferred)
 
 The GUI application (`ollama_side6.py`) provides a user-friendly interface for managing models:
 
@@ -126,7 +127,8 @@ python ollama_side6.py
 - **Delete Option**: Remove models with confirmation
 - **Progress Indication**: Visual feedback during operations
 
-## Original Version
+
+## Original GUI Version (Mac OS and Tkinter argue at times)
 
 The original Tkinter-based application (`ollama_gui.py`) is also included:
 
@@ -191,7 +193,7 @@ python ollama_cli.py list --verbose
 
 ## License
 
-[MIT License](LICENSE)
+[Apache 2.0 License](LICENSE)
 
 ## Acknowledgments
 
