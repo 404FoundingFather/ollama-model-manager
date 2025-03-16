@@ -1,0 +1,9 @@
+# Core dependencies (needed for all scripts)
+# No external dependencies for cli version - uses standard library modules only
+
+# GUI dependencies
+# For ollama_gui.py (Tkinter-based GUI)
+# tkinter is part of the standard library
+
+# For ollama_side6.py (Qt-based GUI)
+PySide6>=6.0.0
